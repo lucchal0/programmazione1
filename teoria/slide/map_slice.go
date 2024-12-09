@@ -52,14 +52,3 @@ func mappe()bool{
 
 }
 
-func Struttura(){
-	var p struct {
-		x float32
-		y float32
-	}
-
-	var mnt float32
-	p.x = 23
-	p.y=51
-	mnt=p.x+p.y
-}
