@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05b4c660-9dd8-48b8-a8f9-9b737b23d9b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_6/frazioni.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_7/riduzione_frazione.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_8/moltiplicazione_frazioni.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lucchal0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lucchal0/programmazione1.git",
+    "accountId": "115f150a-85c9-4930-846d-d682d71cdd84"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2qImgjM1e2t8nf27Di8XjJpFjyB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build Conversione_ora.go.executor": "Run",
+    "Go Build.go build frazioni.go.executor": "Run",
+    "Go Build.go build riduzione_frazione.go.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/alessandrolucchesi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_8" />
+      <recent name="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_7" />
+      <recent name="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GoApplicationRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build riduzione_frazione.go">
+    <configuration name="go build Conversione_ora.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="programmazione1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/lab/lab2/ESERCIZIII/Conversione_ora.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build frazioni.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="programmazione1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_6/frazioni.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build riduzione_frazione.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="programmazione1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/lab/lab10/ESERCIZI-ONLINE/Strutture_e_puntatori/esercizio_7/riduzione_frazione.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build riduzione_frazione.go" />
+        <item itemvalue="Go Build.go build frazioni.go" />
+        <item itemvalue="Go Build.go build Conversione_ora.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-d82d926f19eb-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.22562.186" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-GO-243.22562.186" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
